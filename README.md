@@ -9,6 +9,7 @@ Projenin oynanabilir tam sürümünü (.exe ve motorlar dahil) aşağıdan indir
 📄 PROJE GELİŞTİRME VE TEKNİK RAPOR
 
 Proje Adı: AuraShift
+
 Proje Amacı: Python (MediaPipe) ile yapay zeka tabanlı el takibi yaparak, Unity oyun motorunu eşzamanlı olarak kontrol etmek.
 
 1. Karşılaşılan Teknik Sorunlar
