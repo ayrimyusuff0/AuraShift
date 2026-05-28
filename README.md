@@ -3,8 +3,7 @@
 Python (MediaPipe) ile gerçek zamanlı el takibi yaparak Unity oyun motorunu kontrol eden yapay zeka projesi.
 
 ### 🎮 Oyunu İndir ve Oyna
-Projenin oynanabilir tam sürümünü (.exe ve motorlar dahil) aşağıdan indirebilirsiniz:
-👉 [AuraShift Tam Sürüm İndir (Google Drive) - https://drive.google.com/file/d/1VMm_4QKiLyc87bstDoCSU1IyNSQYvoom/view?usp=sharing]
+Projenin oynanabilir tam sürümünü (.exe ve motorlar dahil) aşağıdan indirebilirsiniz: 👉 [AuraShift Tam Sürüm İndir (Google Drive)](https://drive.google.com/file/d/1VMm_4QKiLyc87bstDoCSU1IyNSQYvoom/view?usp=sharing)
 
 ---
 📄 PROJE GELİŞTİRME VE TEKNİK RAPOR
